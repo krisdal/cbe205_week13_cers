@@ -1,0 +1,13 @@
+{
+    "name": "cbe205-week13-cers",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "node --test",
+        "lint": "eslint ."
+    },
+    "devDependencies": {
+        "eslint": "^9.25.1"
+    }
+}
