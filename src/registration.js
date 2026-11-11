@@ -27,5 +27,3 @@ export function register({ event, studentId, registrations }) {
   registrations.push(record);
   return { ok: true, confirmation: record };
 }
-
-Just forget to add comment syntax 
